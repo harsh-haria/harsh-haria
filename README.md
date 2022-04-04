@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsh-haria
-- 👀 I’m interested in Backend
+<!--- 👀 I’m interested in Backend -->
 - 🌱 I’m currently learning c++ and node.js
 - 👍 LinkedIn - www.linkedin.com/in/harsh-haria
 - 🧑‍💻 hackerrank - https://www.hackerrank.com/harsh_nh
