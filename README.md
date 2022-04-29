@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @harsh-haria
 - 🌱 I’m currently learning c++ and node.js
 - 👍 LinkedIn - www.linkedin.com/in/harsh-haria
-- 🧑‍💻 hackerrank - https://www.hackerrank.com/harsh_nh
+- 🧑‍💻 HackerRank - https://www.hackerrank.com/harsh_nh
+- 🏅 LeetCode - https://leetcode.com/harsh-haria
 <!-- - 👀 I’m interested in Backend -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ...  -->
