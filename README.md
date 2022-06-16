@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsh-haria
-- 🌱 I’m currently learning C++ and Node.Js
+- 🌱 I’m currently learning C++ and Node Js
 - 👍 LinkedIn - www.linkedin.com/in/harsh-haria
 - 🧑‍💻 HackerRank - https://www.hackerrank.com/harsh_nh
 - 🏅 LeetCode - https://leetcode.com/harsh-haria
