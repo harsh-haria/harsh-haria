@@ -68,8 +68,7 @@ I'm a Graduate Student living in Mumbai, IN. Outside Tech, I love to play video 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> </a>
-<a href="http://expressjs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg
-" alt="ExpressJs" width="45" height="40"/> </a>
+<a href="http://expressjs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJs" width="45" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://th.bing.com/th/id/R.096d33be2aad46efe516fcf6fece32ad?rik=l9A%2fjtR4P7zk1Q&riu=http%3a%2f%2fmongodb-tools.com%2fimg%2fmongoose.png&ehk=oP65VeN%2b5L1ffpqzIgXN%2bLD00%2fRPMiQAGqTZ4%2fhixoQ%3d&risl=&pid=ImgRaw&r=0" alt="mongoose" width="45" height="40"/> </a>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
