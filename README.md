@@ -1,9 +1,4 @@
 <!-- ![Harsh Haria Banner Image](./banner.gif) -->
-<style>
-  img{
-    background-color: white;
-  }
-</style>
 <center><img align="center" src="banner.gif" alt="drawing" width="750" width="300"/></center>
 <!-- - 👋 Hi, I’m @harsh-haria <br>
 - 🌱 I’m into Web Development(backend) <br>
