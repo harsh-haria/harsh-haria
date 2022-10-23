@@ -12,8 +12,8 @@
 <br><h2>Namaste 🙏</h2><br>
 I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
-- <i>Currently:</i> M.Sc. I.T. Student at Institute of Distance and Open Learning.
-- <i>Previously:</i> B.Sc. C.S. Student at K.J. Somaiya College of Science and Commerce.<br>
+- <i>Currently:</i> M.Sc. I.T. Student at IDOL, Santacruz, Mumbai.
+- <i>Previously:</i> B.Sc. C.S. Student at K.J. Somaiya College of Science and Commerce, Vidyavihar, Mumbai.<br>
 
 <br><h2>💻 I'm Currently working on</h2>
 
@@ -53,7 +53,7 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
 <h2> About Harsh⚡:</h2>
 
-I'm a Graduate Student living in Mumbai, IN. Outside Tech, I love to play video games, watch F1 races, enjoy music and explore nature outdoors. I'm an avid learner and curiosity is what drives me 🤓
+I'm a Graduate Student living in Mumbai, IN. I have always been excited and curious about technology since my childhood. Until the present moment, I have worked on multiple projects while exploring technologies like IoT, ML, Blockchain, Web development, etc. Recently, I have also started learning more about software development, especially web development and system design. Outside Tech, I love to play video games, watch F1 races, enjoy music and explore nature outdoors. I'm an avid learner and curiosity is what drives me 🤓
 
 <!-- - Check out my LinkedIn: [Harsh Haria on LinkedIn](www.linkedin.com/in/harsh-haria) -->
 
