@@ -12,8 +12,8 @@
 <br><h2>Namaste 🙏</h2><br>
 I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
-- <i>Currently:</i> M.Sc. I.T. Student at IDOL, Santacruz, Mumbai.
-- <i>Previously:</i> B.Sc. C.S. Student at K.J. Somaiya College of Science and Commerce, Vidyavihar, Mumbai.<br>
+- <i>Currently:</i> Application Developer Intern @[Offee, Orage Digital Private Limited](https://www.linkedin.com/company/offee-digital/mycompany/)
+- <i>Previously:</i> M.Sc. I.T. Student at IDOL, Santacruz, Mumbai.
 
 <br><h2>💻 I'm Currently working on</h2>
 
@@ -50,6 +50,14 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harsh-haria" alt="WakaTime" /> -->
   </p>
 </div>
+<div>
+  <p align="center">
+  <a href="https://github.com/harsh-haria">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsh-haria&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsh-haria&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+  </p>
+</div>
 
 <h2> About Harsh⚡:</h2>
 
@@ -68,13 +76,15 @@ I'm a Graduate Student living in Mumbai, IN. I have always been excited and curi
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="50" height="50"/> </a>
 <a href="http://expressjs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJs" width="55" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://th.bing.com/th/id/R.096d33be2aad46efe516fcf6fece32ad?rik=l9A%2fjtR4P7zk1Q&riu=http%3a%2f%2fmongodb-tools.com%2fimg%2fmongoose.png&ehk=oP65VeN%2b5L1ffpqzIgXN%2bLD00%2fRPMiQAGqTZ4%2fhixoQ%3d&risl=&pid=ImgRaw&r=0" alt="mongoose" width="55" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" width="55" height="50"/> </a>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="cpp" width="50" height="50"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 
