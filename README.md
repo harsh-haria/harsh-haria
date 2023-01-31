@@ -12,8 +12,8 @@
 <br><h2>Namaste 🙏</h2><br>
 I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
-- <i>Currently:</i> Application Developer Intern @[Offee, Orage Digital Private Limited](https://www.linkedin.com/company/offee-digital/mycompany/)
-- <i>Previously:</i> M.Sc. I.T. Student at IDOL, Santacruz, Mumbai.
+- <i>Currently:</i> Application Developer @[Offee, Orage Digital Private Limited](https://www.linkedin.com/company/offee-digital/mycompany/)
+- <i>Previously:</i> Application Developer Intern @[Offee, Orage Digital Private Limited](https://www.linkedin.com/company/offee-digital/mycompany/)
 
 <br><h2>💻 I'm Currently working on</h2>
 
