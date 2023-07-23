@@ -9,7 +9,7 @@
 <!--
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=harsh-haria.harsh-haria)](https://github.com/harsh-haria) [![GitHub followers](https://img.shields.io/github/followers/harsh-haria.svg?style=social&label=Follow)](https://github.com/harsh-haria?tab=followers) -->
 
-<br><h2>Namaste 🙏</h2><br>
+<br><h2>Namaste 🙏</h2>
 I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
 - <i>Currently:</i> Application Developer @[Offee, Orage Digital Private Limited](https://www.linkedin.com/company/offee-digital/mycompany/)
@@ -58,6 +58,31 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
   </a>
   </p>
 </div>
+<br>
+
+<h2>🛠 Languages and Tools:</h2>
+
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="50" height="50"/> </a>
+<a href="http://expressjs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJs" width="55" height="50"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" alt="FastAPI" width="50" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="50" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50"/> </a>
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://th.bing.com/th/id/R.096d33be2aad46efe516fcf6fece32ad?rik=l9A%2fjtR4P7zk1Q&riu=http%3a%2f%2fmongodb-tools.com%2fimg%2fmongoose.png&ehk=oP65VeN%2b5L1ffpqzIgXN%2bLD00%2fRPMiQAGqTZ4%2fhixoQ%3d&risl=&pid=ImgRaw&r=0" alt="Mongoose" width="55" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> </a>
+<a href="https://socket.io/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="55" height="50"/> </a>
+<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50" height="50"/> </a>
+
+
+</p><br>
 
 <h2> About Harsh⚡:</h2>
 
@@ -68,27 +93,9 @@ I'm a Graduate Student living in Mumbai, IN. I have always been excited and curi
 - Check out my GFG Profile: [GeeksForGeeks](https://auth.geeksforgeeks.org/user/harshnh/profile)
 - Check out my LeetCode Profile: [LeetCode](https://leetcode.com/harsh-haria)
 - Check out my HackerRank Profile: [HackerRank](https://www.hackerrank.com/harsh_nh)
-- Write to me: [Email](mailto:harshharia1234@gmail.com)<br><br>
+<!--  - Write to me: [Email](mailto:harshharia1234@gmail.com)<br><br> -->
 
-<h2>🛠 Languages and Tools:</h2>
-
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="50" height="50"/> </a>
-<a href="http://expressjs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJs" width="55" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://th.bing.com/th/id/R.096d33be2aad46efe516fcf6fece32ad?rik=l9A%2fjtR4P7zk1Q&riu=http%3a%2f%2fmongodb-tools.com%2fimg%2fmongoose.png&ehk=oP65VeN%2b5L1ffpqzIgXN%2bLD00%2fRPMiQAGqTZ4%2fhixoQ%3d&risl=&pid=ImgRaw&r=0" alt="mongoose" width="55" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" width="55" height="50"/> </a>
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="50" height="50"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="cpp" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-
-</p><br>
+<br>
 
 <h2>📫 How to reach me:</h2>
 
