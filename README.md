@@ -12,15 +12,14 @@
 <br><h2>Namaste 🙏</h2>
 I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
-- <i>Currently:</i> Application Developer @[Offee, Orage Digital Private Limited](https://www.linkedin.com/company/offee-digital/mycompany/)
-- <i>Previously:</i> Application Developer Intern @[Offee, Orage Digital Private Limited](https://www.linkedin.com/company/offee-digital/mycompany/)
+- <i>Currently:</i> Application Developer @<a href="https://offee.in/" target="_blank" rel="noreferrer noopener">Offee</a>
+- <i>Previously:</i> Application Developer Intern @<a href="https://offee.in/" target="_blank" rel="noreferrer noopener">Offee</a>
 
 <br><h2>💻 I'm Currently working on</h2>
 
 - Data Structures & Algorithms<br>
 - System Design<br>
 - Backend Web Development<br>
-- Software Engineering<br>
   <br>
 
 **Check out my GitHub repositories:**
@@ -64,6 +63,7 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 <h2>🛠 Languages and Tools:</h2>
 
 <p>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="50" height="50"/> </a>
 <a href="http://expressjs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJs" width="55" height="50"/> </a>
@@ -73,7 +73,7 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50"/> </a>
-<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://th.bing.com/th/id/R.096d33be2aad46efe516fcf6fece32ad?rik=l9A%2fjtR4P7zk1Q&riu=http%3a%2f%2fmongodb-tools.com%2fimg%2fmongoose.png&ehk=oP65VeN%2b5L1ffpqzIgXN%2bLD00%2fRPMiQAGqTZ4%2fhixoQ%3d&risl=&pid=ImgRaw&r=0" alt="Mongoose" width="55" height="50"/> </a>
+<!-- <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer noopener"> <img src="https://th.bing.com/th/id/R.096d33be2aad46efe516fcf6fece32ad?rik=l9A%2fjtR4P7zk1Q&riu=http%3a%2f%2fmongodb-tools.com%2fimg%2fmongoose.png&ehk=oP65VeN%2b5L1ffpqzIgXN%2bLD00%2fRPMiQAGqTZ4%2fhixoQ%3d&risl=&pid=ImgRaw&r=0" alt="Mongoose" width="55" height="50"/> </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> </a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="55" height="50"/> </a>
@@ -87,7 +87,7 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
 <h2> About Harsh⚡:</h2>
 
-I'm a Graduate Student living in Mumbai, IN. I have always been excited and curious about technology since my childhood. Until the present moment, I have worked on multiple projects while exploring technologies like IoT, ML, Blockchain, Web development, etc. Recently, I have also started learning more about software development, especially web development and system design. Outside Tech, I love to play video games, watch F1 races, enjoy music and explore nature outdoors. I'm an avid learner and curiosity is what drives me. I'm obsessed with the idea of continuous self improvment 🤓
+I'm a Software Developer living in Mumbai, IN. I have always been excited and curious about technology since my childhood. Until the present moment, I have worked on multiple projects while exploring technologies like IoT, ML, Blockchain, Web development, etc. Recently, I have also started learning more about software development, especially web development and System Design. Outside Tech, I love to play video games, watch F1 races, enjoy music and explore nature outdoors. I'm an avid learner and curiosity is what drives me. I'm obsessed with the idea of continuous self improvment 🤓
 
 <!-- - Check out my LinkedIn: [Harsh Haria on LinkedIn](www.linkedin.com/in/harsh-haria) -->
 
