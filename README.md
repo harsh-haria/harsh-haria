@@ -17,9 +17,9 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
 <br><h2>💻 I'm Currently working on</h2>
 
+- Java, Spring/Spring Boot<br>
 - Data Structures & Algorithms<br>
 - System Design<br>
-- Backend Web Development<br>
   <br>
 
 **Check out my GitHub repositories:**
