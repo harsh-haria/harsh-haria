@@ -1,13 +1,13 @@
 <!-- ![Harsh Haria Banner Image](./banner.gif) -->
-<center><img align="center" src="banner.gif" alt="drawing" width="750" width="300"/></center>
+<!--<center><img align="center" src="banner.gif" alt="drawing" width="750" width="300"/></center> -->
 <!-- - 👋 Hi, I’m @harsh-haria <br>
 - 🌱 I’m into Web Development(backend) <br>
 - 👍 LinkedIn - www.linkedin.com/in/harsh-haria <br>
 - 🛠️ GeeksForGeeks - https://auth.geeksforgeeks.org/user/harshnh/profile <br>
 - 🏅 LeetCode - https://leetcode.com/harsh-haria <br>
 - 🧑‍💻 HackerRank - https://www.hackerrank.com/ harsh_nh <br><br> -->
-<!--
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=harsh-haria.harsh-haria)](https://github.com/harsh-haria) [![GitHub followers](https://img.shields.io/github/followers/harsh-haria.svg?style=social&label=Follow)](https://github.com/harsh-haria?tab=followers) -->
+
+<!-- [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=harsh-haria.harsh-haria)](https://github.com/harsh-haria) [![GitHub followers](https://img.shields.io/github/followers/harsh-haria.svg?style=social&label=Follow)](https://github.com/harsh-haria?tab=followers) -->
 
 <br><h2>Namaste 🙏</h2>
 I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
@@ -18,9 +18,11 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 <br><h2>💻 I'm Currently working on</h2>
 
 - Java, Spring/Spring Boot<br>
-- Data Structures & Algorithms<br>
 - System Design<br>
+- Data Structures & Algorithms<br>
   <br>
+
+<!--
 
 **Check out my GitHub repositories:**
 
@@ -34,6 +36,8 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
     </a>
   </p>
 </div><br>
+
+-->
 
 <h2>👀 Stats</h2>
 
@@ -87,7 +91,11 @@ I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
 <h2> About Harsh⚡:</h2>
 
-I'm a Software Developer living in Mumbai, IN. I have always been excited and curious about technology since my childhood. Until the present moment, I have worked on multiple projects while exploring technologies like IoT, ML, Blockchain, Web development, etc. Recently, I have also started learning more about software development, especially web development and System Design. Outside Tech, I love to play video games, watch F1 races, enjoy music and explore nature outdoors. I'm an avid learner and curiosity is what drives me. I'm obsessed with the idea of continuous self improvment 🤓
+Hi! I'm a passionate Software Developer based in Mumbai, India. My journey with technology started early, driven by a deep curiosity and excitement for innovation. Over the years, I’ve dived into various fields, exploring and building projects in IoT, Machine Learning, Blockchain, Web Development, and more.
+
+Recently, I’ve focused on sharpening my skills in software development, particularly in web development and system design. I'm always eager to learn and grow, with a strong belief in continuous self-improvement. 🤓
+
+Outside of tech, you’ll often find me gaming, watching F1 races, enjoying good music, or exploring the outdoors. Curiosity is my compass, and I’m constantly on the lookout for the next big thing to learn!
 
 <!-- - Check out my LinkedIn: [Harsh Haria on LinkedIn](www.linkedin.com/in/harsh-haria) -->
 
