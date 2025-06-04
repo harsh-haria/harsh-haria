@@ -12,14 +12,14 @@
 <br><h2>Namaste 🙏</h2>
 I'm [Harsh Haria](https://www.linkedin.com/in/harsh-haria)!
 
-- <i>Currently:</i> Application Developer @<a href="https://offee.in/" target="_blank" rel="noreferrer noopener">Offee</a>
-- <i>Previously:</i> Application Developer Intern @<a href="https://offee.in/" target="_blank" rel="noreferrer noopener">Offee</a>
+- <i>Currently:</i> Software Engineer @<a href="https://www.browserstack.com/" target="_blank" rel="noreferrer noopener">Browserstack</a>
+- <i>Previously:</i> Application Developer @<a href="https://offee.in/" target="_blank" rel="noreferrer noopener">Offee</a>
 
 <br><h2>💻 I'm Currently working on</h2>
 
 - System Design<br>
-- Java/Spring Boot<br>
-- Angular<br>
+- Ruby on Rails<br>
+- React<br>
   <br>
 
 <!--
